@@ -16,7 +16,7 @@
     "url": "https://github.com/jiunway/netlify/issues"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1"
   },
   "homepage": "https://github.com/jiunway/netlify#readme",
   "scripts": {
